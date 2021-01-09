@@ -1,0 +1,24 @@
+{
+  "name": "project_log",
+  "version": "0.1.0",
+  "description": "For save tasks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugene62/project_log.git"
+  },
+  "keywords": [],
+  "author": "Eugene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugene62/project_log/issues"
+  },
+  "homepage": "https://github.com/Eugene62/project_log#readme",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}
